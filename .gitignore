@@ -3,4 +3,4 @@ doc/_build
 .lock-*
 .waf-*
 waf
-
+.DS_Store
